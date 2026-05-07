@@ -1,5 +1,11 @@
-# 💫 About Me:
-## About Me :<br><br>🔭 I'm currently working on<br>   → A full-stack MERN/MEAN app, AWS DevOps pipelines & grinding DSA for US tech interviews<br><br>👥 I'm looking to collaborate on<br>   → Open-source MERN/MEAN projects, DevOps automation tools, or cloud-native AWS builds<br><br>🤝 I'm looking for help with<br>   → Landing my first US tech role (Entry-level SDE, SDE 2YoE, or DevOps/SRE)<br><br>🌱 I'm currently learning<br>   → AWS DevOps (CI/CD, ECS, Lambda, CloudWatch), System Design & advanced DSA patterns<br><br>💬 Ask me about<br>   → MERN/MEAN stack, REST APIs, MongoDB, Docker, AWS, or cracking coding interviews 😄<br><br>⚡ Fun fact<br>   → I think in components 🧩 — even my grocery list is probably a React app
+# Hi, I'm Krushna 👋
+
+🔭 Working on → MERN stack apps & AWS DevOps projects  
+👥 Open to collaborate on → Full-stack or cloud-native projects  
+🌱 Currently learning → AWS, System Design & DSA  
+💬 Ask me about → MongoDB, Express, React, Node, Docker  
+⚡ Fun fact → I think in components 🧩
+
 
 
 ## 🌐 Socials:
