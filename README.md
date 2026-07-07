@@ -80,36 +80,6 @@
  
 ---
  
-## 📊 GitHub Stats
- 
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrushnaBhujbal&theme=dark&bg_color=0d1117&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&cache_seconds=86400)
- 
-![Streak](https://streak-stats.demolab.com/?user=KrushnaBhujbal&theme=dark&background=0d1117&hide_border=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrushnaBhujbal&theme=dark&bg_color=0d1117&hide_border=true&layout=compact&include_all_commits=true&cache_seconds=86400)
- 
-</div>
----
- 
-## 🏆 GitHub Trophies
- 
-<div align="center">
-![Trophies](https://github-profile-trophy.vercel.app/?username=KrushnaBhujbal&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
- 
-</div>
----
- 
-## 🔝 Top Contributed Repos
- 
-<div align="center">
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=KrushnaBhujbal&limit=5&theme=dark&combine_all_yearly_contributions=true)
- 
-</div>
----
- 
-<div align="center">
-![Visitor Count](https://komarev.com/ghpvc/?username=KrushnaBhujbal&color=00b4d8&style=flat-square&label=Profile+Views)
  
 </div>
 <!-- README by KrushnaBhujbal -->
